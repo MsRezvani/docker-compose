@@ -5,6 +5,7 @@ PaymentService :
 
 
 RabbitMq : 
+
 های Component دارای RabbitMQ
 
 Exchange -
